@@ -9,13 +9,14 @@ const Container = styled.div`
     justify-content: center;
     font-size: 14px;
     font-weight: 500 ;
+    letter-spacing: 1px;
 `
 
 const Announcement = () => {
     return (
         <div>
             <Container>
-                Super Deal! Free Shipping on Orders over 499. 
+                Super Deal! Free shipping on odders over 499. 
             </Container>
         </div>
     )
