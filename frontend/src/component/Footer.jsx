@@ -76,10 +76,10 @@ export default function Footer() {
     <Container>
         <Left>
             <Logo>BITTU.</Logo>
-            <Desc>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos,
-                 totam facere est aut dolore corporis tempore excepturi reprehenderit minus 
-                 quam possimus expedita modi harum ab tempora nemo! Voluptatibus veritatis cumque,
-                  tempora officia nulla provident vel dolor! Sit dignissimos, debitis ea sequi 
+            <Desc>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissim
+                 totam facere est aut dolore corporis tempore excepturi reprehe minus 
+                 quam possimus expedita modi harum ab tempora nemo!  veritatis cumque,
+                  tempora officia nulla provident vel dolor! Sssit dignissimos, debitis ea sequi 
                   tempore commodi velit quos, labore harum placeat veritatis in!
             </Desc>
             <SocialContainer>
