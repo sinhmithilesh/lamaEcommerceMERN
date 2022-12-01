@@ -1,5 +1,6 @@
 import React from 'react'
 import styled from 'styled-components';
+import { mobile } from '../responsive';
 
 const Container = styled.div`
     flex: 1;
@@ -12,9 +13,11 @@ const Image = styled.img`
     width: 100%;
     height: 100%;
     object-fit: cover;
+    ${mobile({height : "30vh"})}
+
 `
 
-const Info = styled.p`
+const Info = styled.div`
     position: absolute;
     top:0;
     left: 0;
@@ -44,7 +47,6 @@ const Button = styled.button`
 
 export default function CategoryItem({item}) {
 
-    console.log(item)
 
   return (
     <Container>

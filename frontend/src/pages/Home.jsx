@@ -7,11 +7,12 @@ import Products from "../component/Products";
 import NewsLetter from "../component/NewsLetter";
 import Footer from "../component/Footer";
 
+
 const Home = () => {
     return(
         <div>
-            <Announcement/>
             <Navbar/>
+            <Announcement/>
             <Slider/>
             <Categories/>
             <Products/>

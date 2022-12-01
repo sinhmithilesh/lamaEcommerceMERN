@@ -1,6 +1,8 @@
 import React from 'react'
 import styled from 'styled-components';
 import SendIcon from '@mui/icons-material/Send';
+import { mobile } from '../responsive';
+
 
 const Container = styled.div`
     height: 64vh;
@@ -19,6 +21,8 @@ const Desc = styled.div`
     font-size: 24px;
     font-weight : 400;
     margin-bottom: 20px;
+    ${mobile({textAlign : "center"})}
+
 `
 
 const InputContainer = styled.div`
@@ -29,6 +33,8 @@ const InputContainer = styled.div`
     border: 1px solid lightgray;
     background-color: white;
     cursor: pointer;
+    ${mobile({width : "80%"})}
+ 
 `
 const Input = styled.input`
     border: none;

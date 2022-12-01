@@ -1,9 +1,13 @@
 import React from 'react'
 import styled from 'styled-components';
 import {Facebook, Instagram, Twitter, RoomOutlined , CallOutlined, EmailOutlined} from '@mui/icons-material';
+import { mobile } from '../responsive';
+
 
 const Container = styled.div`
     display: flex;
+    ${mobile({flexDirection : "column"})}
+
 `
 const Left = styled.div`
     flex: 1;
@@ -35,6 +39,8 @@ const SocialIcon = styled.div`
 const Center = styled.div`
     flex: 1;
     padding: 20px;
+    ${mobile({display : "none"})}
+
 `
 
 const Title = styled.h3`
@@ -68,6 +74,7 @@ const ContactItem = styled.div`
 
 const Payment = styled.img`
     width : 50%;
+    ${mobile({width : "80%"})}
 `
 
 

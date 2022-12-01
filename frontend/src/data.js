@@ -47,19 +47,19 @@ export const sliderItems = [
   export const popularProducts = [
     {
       id:1,
-      img:"https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png",
+      img: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19007800/2022/8/3/286e1e15-61f5-4cc3-b62b-5f7bde89eda21659513136991-Calvin-Klein-Jeans-Women-Tshirts-8621659513136515-1.jpg"
     },
     {
       id:2,
-      img:"https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png",
+      img:"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18962090/2022/7/22/58d9fbcf-ea1d-4d52-aaab-f797f9e625091658475471192-AS-W-NSW-TEE-BF-NIKE-AIR-5501658475470739-1.jpg",
     },
     {
       id:3,
-      img:"https://www.prada.com/content/dam/pradanux_products/U/UCS/UCS319/1YOTF010O/UCS319_1YOT_F010O_S_182_SLF.png",
+      img:"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19075228/2022/10/11/c5ce5a66-55e0-4183-9ed1-95d90e619e961665482375121-Macys-Karen-Scott-Women-White--Purple-Floral-Printed-T-shirt-1.jpg",
     },
     {
       id:4,
-      img:"https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png",
+      img:"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18515732/2022/11/9/765625ea-1a5d-4df4-b91a-85cd1c11ef8c1667996521620-ADIDAS-Originals-Women-Tshirts-1891667996521263-1.jpg",
     },
     {
       id:5,
@@ -67,7 +67,7 @@ export const sliderItems = [
     },
     {
       id:6,
-      img:"https://d3o2e4jr3mxnm3.cloudfront.net/Rocket-Vintage-Chill-Cap_66374_1_lg.png",
+      img:"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20979222/2022/11/29/ff4a9d4d-4b70-4d32-8721-598a3ab2d0971669740126048DEEBACOWomenPeach-ColouredWhiteStripedCropShrug1.jpg",
     },
     {
       id:7,
